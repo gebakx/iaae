@@ -1128,6 +1128,6 @@ class: left, middle, inverse
 
 # Referència
 
-- Aurélien Geron. *Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems*. O'Reilly, 2015.
+- Aurélien Geron. *Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems*. O'Reilly, 2025.
 
 - Aurélien Geron. [*Hands-On Machine Learning with Scikit-Learn and PyTorch*](https://github.com/ageron/handson-mlp). Github, 2015.
