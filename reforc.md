@@ -353,8 +353,6 @@ class: left, middle, inverse
 .col1[
 .blue[Deep Q-Learning per a Atari Breakout]
 
-- [codi font keras](https://keras.io/examples/rl/deep_q_network_breakout/)
-
 .center[
 [![:scale 65%](figures/reforc/breakout.png)](https://www.youtube.com/watch?v=TmPfTpjtdgg&feature=youtu.be)]
 
