@@ -16,8 +16,6 @@ class: center, middle
 
 # IAAE
 
-- [Presentació](intro.html)
-
 - [Aprenentatge supervisat](supervisat.html)
 
 - [Xarxes neuronals](xarxesNeuronals.html)
@@ -28,9 +26,4 @@ class: center, middle
 
 - [Altres arquitectures](arquitectures.html)
 
-<!--
-- [Aprenentatge no supervisat](nosupervisat.html)
- 
-- [Optimització](optimitzacio.html)
 
--->
