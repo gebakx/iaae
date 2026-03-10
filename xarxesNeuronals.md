@@ -762,7 +762,7 @@ class: left, middle, inverse
 .col2[
 .blue[Exemple amb codi]:
 
-- Aurélien Geron. [*Hands-On Machine Learning with Scikit-Learn and PyTorch*](https://github.com/ageron/handson-mlp/blob/main/12_deep_computer_vision_with_cnns.ipynb). Github, 2015.
+- Aurélien Geron. [*Hands-On Machine Learning with Scikit-Learn and PyTorch*](https://github.com/ageron/handson-mlp/blob/main/12_deep_computer_vision_with_cnns.ipynb). Github, 2025.
 
   - Segmentació d'imatges
 
@@ -1144,4 +1144,4 @@ class: left, middle, inverse
 
 - Aurélien Geron. *Hands-On Machine Learning with Scikit-Learn and PyTorch: Concepts, Tools, and Techniques to Build Intelligent Systems*. O'Reilly, 2025.
 
-- Aurélien Geron. [*Hands-On Machine Learning with Scikit-Learn and PyTorch*](https://github.com/ageron/handson-mlp). Github, 2015.
+- Aurélien Geron. [*Hands-On Machine Learning with Scikit-Learn and PyTorch*](https://github.com/ageron/handson-mlp). Github, 2025.
