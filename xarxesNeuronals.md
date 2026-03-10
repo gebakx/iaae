@@ -749,6 +749,8 @@ class: left, middle, inverse
 
 - [Codi exemple](codis/deteccio-cares.html)
 
+.cols5050[
+.col1[
 .blue[Detecció d'Objectes]:
 
 - [YOLO (You Only Look Once)](https://github.com/ultralytics/ultralytics)
@@ -756,6 +758,18 @@ class: left, middle, inverse
   - [Documentacio](https://docs.ultralytics.com/)
 
 - [RetinaNet](https://github.com/yhenon/pytorch-retinanet)
+]
+.col2[
+.blue[Exemple amb codi]:
+
+- Aurélien Geron. [*Hands-On Machine Learning with Scikit-Learn and PyTorch*](https://github.com/ageron/handson-mlp/blob/main/12_deep_computer_vision_with_cnns.ipynb). Github, 2015.
+
+  - Segmentació d'imatges
+
+  - Detecció d'objectes
+
+  - *Transfer Learning*
+]]
 
 ---
 class: left, middle, inverse
