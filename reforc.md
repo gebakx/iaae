@@ -130,7 +130,7 @@ class: left, middle, inverse
 
 # Gymnasium
 
-- Col·lecció de problemes estàndard d'aprenentatge per reforç amb conexió a Python ([Documentació](https://gymnasium.farama.org/)).
+- Col·lecció de problemes estàndard d'aprenentatge per reforç amb connexió a Python ([Documentació](https://gymnasium.farama.org/)).
 
 - Origen: [OpenAI Gym](https://github.com/openai/gym), un conjunt d'eines per desenvolupar i comparar algorismes d'aprenentatge per reforç
 

@@ -290,7 +290,7 @@ optimizer = torch.optim.Adam(model.parameters())  # optimitzador
 ]
 
 - .blue[Amplada]: combinacions de variables
-  - Apren de memòria totes les combinacions possibles
+  - Aprèn de memòria totes les combinacions possibles
   - *Overfitting*
 
 - .blue[Profunditat]: inferir característiques d'alt nivell (abstractes)
@@ -755,7 +755,7 @@ class: left, middle, inverse
 
 - [YOLO (You Only Look Once)](https://github.com/ultralytics/ultralytics)
 
-  - [Documentacio](https://docs.ultralytics.com/)
+  - [Documentació](https://docs.ultralytics.com/)
 
 - [RetinaNet](https://github.com/yhenon/pytorch-retinanet)
 ]
@@ -1096,7 +1096,7 @@ class Model(nn.Module):
 
 ---
 
-# Exemple: similitut entre gats i gossos
+# Exemple: similitud entre gats i gossos
 
 .cols5050[
 .col1[
@@ -1105,7 +1105,7 @@ class Model(nn.Module):
 - .blue[Conjunt de dades]:
 ![:scale 105%](figures/xarxes/siamesa-1.png)
 
-- Per cada image:
+- Per cada imatge:
 
   - Parella aleatòria positiva
 

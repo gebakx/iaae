@@ -120,7 +120,7 @@ error (1-precisió) que penalitza les classificacions errònies <br>
 
 - .blue[Mesures F]: <br>
 per a conjunts de dades molt desequilibrats <br>
-ènfasi en classes positives i errors <br>
+èmfasi en classes positives i errors <br>
 `f1_score`
 
 ---
@@ -199,7 +199,7 @@ class: left, middle, inverse
 
 ---
 
-# Ètapes del proces
+# Etapes del proces
 
 ![:scale 95%](figures/validacio/produccio-2.png)
 
@@ -265,7 +265,7 @@ class: left, middle, inverse
 
 ---
 
-# Dades en el nuvol
+# Dades en el núvol
 
 ![:scale 95%](figures/validacio/produccio-4.png)
 
@@ -306,7 +306,7 @@ class: left, middle, inverse
 
 - Pot trigar més d'un mes depenen de les dades i la màquina
 
-- Hem de guardar el model amb *checkpoints* per evitar perdues i aprofitar *early stopping*
+- Hem de guardar el model amb *checkpoints* per evitar pèrdues i aprofitar *early stopping*
 
 .blue[Versionat de models]
 
@@ -316,7 +316,7 @@ class: left, middle, inverse
 
 ---
 
-# Entrenament en el nuvol
+# Entrenament en el núvol
 
 .center[
 ![:scale 55%](figures/validacio/produccio-5.png)
@@ -366,7 +366,7 @@ class: left, middle, inverse
 
 ---
 
-# Monitoratge en el nuvol
+# Monitoratge en el núvol
 
 .blue[Neptune.ai]:
 
@@ -404,13 +404,13 @@ class: left, middle, inverse
 
 ---
 
-# Servei de models en el nuvol
+# Servei de models en el núvol
 
 Ús de microserveis com:
 
 - Kubernetes engine
 
-- Microserveis en el nuvol (google cloud RUN o AWS ECS)
+- Microserveis en el núvol (google cloud RUN o AWS ECS)
 
 - Punts clau:
 
@@ -449,9 +449,9 @@ class: left, middle, inverse
 
 ---
 
-# Repositoris de codi
+# Repositori de codi
 
-.blue[Manteniment del codi dels projectes en repositoris]
+.blue[Manteniment del codi dels projectes en repositori]
 
 Característiques:
 
@@ -461,7 +461,7 @@ Característiques:
 
 - **Històric de canvis**
 
-- **_Branches & merging_**
+- **_Branca & metgin_**
 
 - **Resolució de conflictes**
 
@@ -469,7 +469,7 @@ Característiques:
 
 ---
 
-# Versionatge del codi en el nuvol
+# Versi onatge del codi en el núvol
 
 Repositoris:
 

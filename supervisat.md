@@ -625,7 +625,7 @@ $P$: centroide positiu <br>
 $N$: centroide negatiu <br>
 $\langle,\rangle$: producte escalar 
 
-#### Fòrmules:
+#### Fórmules:
 
 $h(T)=sign\left(\langle W,T\rangle+b\right)$
 
