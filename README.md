@@ -24,6 +24,6 @@ class: center, middle
 
 - [Aprenentatge per reforç](reforc.html) 
 
-- [Altres arquitectures](arquitectures.html)
+- [Espais latents](latent.html)
 
 
